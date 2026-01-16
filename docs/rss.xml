@@ -1,2 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://cy12-math.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://cy12-math.github.io</link></image><lastBuildDate>Fri, 16 Jan 2026 13:04:37 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>cy12的数学小组</title><link>https://cy12-math.github.io</link><description>想，全是问题；做，才有答案。</description><copyright>cy12的数学小组</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/238244597?v=4</url><title>avatar</title><link>https://cy12-math.github.io</link></image><lastBuildDate>Fri, 16 Jan 2026 16:37:49 +0000</lastBuildDate><managingEditor>cy12的数学小组</managingEditor><ttl>60</ttl><webMaster>cy12的数学小组</webMaster><item><title>说明</title><link>https://cy12-math.github.io/post/shuo-ming.html</link><description>## 祝贺cy12的math小组正式成立!此网站为官方网站！
+### 成员
+我们欢迎任何对数学感兴趣的同学，形成学习团体，共同钻研数学，努力在班级中揽下数学前三
+#### 成员表
+1、cy
+2、项家虞（挚友）
+3、寡人
+### 项目（计划）
+目前，我们决定在2026年春游（五月前后）时，学习七、八年级数学，尝试中考卷。</description><guid isPermaLink="true">https://cy12-math.github.io/post/shuo-ming.html</guid><pubDate>Fri, 16 Jan 2026 13:04:14 +0000</pubDate></item></channel></rss>
